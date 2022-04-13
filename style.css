@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    background-color: rgb(165, 221, 253);
+    border-radius: 12px;
+    padding: 30px;
+    border-radius: 28px;
+}
+
+input {
+    border-radius: 21px;
+    border: solid #ff0404;
+    font-size: 38px;
+    text-align: left;
+
+}
+
+button {
+    border-radius: 15px;
+    font-size: 27px;
+    background: rgb(252, 131, 246);
+    width: 102px;
+    height: 58px;
+
+}
